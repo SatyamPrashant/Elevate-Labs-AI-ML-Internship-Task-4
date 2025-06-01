@@ -1,9 +1,5 @@
 # Elevate Labs AI/ML Internship Task 4: Classification with Logistic Regression
 
-## Repository Description (2 lines)
-A complete end‐to‐end pipeline that builds and evaluates a Logistic Regression model to classify breast tumors as benign or malignant, including feature scaling, model evaluation (confusion matrix, precision, recall, ROC‐AUC), threshold tuning, and coefficient interpretation.  
-Includes a saved model pipeline (`logistic_regression_model.pkl`) and detailed Jupyter notebook for reproducibility.
-
 ---
 
 ## Dataset
